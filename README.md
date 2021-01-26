@@ -12,3 +12,6 @@ This Webapp is just a fully functional example.
 - User Registration
 - REST API with Django
 - Frontend with Vue
+
+## Additional information
+- World of Warcraft [Official website] (https://worldofwarcraft.com)
